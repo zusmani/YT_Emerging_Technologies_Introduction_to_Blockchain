@@ -38,9 +38,6 @@ blockchain-books-youll-ever-need/
 4. Introduction to Blockchain with Case Studies - https://gufhtugu.com/product/introduction-to-
 blockchain-with-case-studies/
 
-5. A Brief History of Money - https://gufhtugu.com/product/a-brief-history-of-moneyL
-
-6. BitCoin, Blockchain and Crypto-Currency-https://gufhtugu.com/product/bit-coin-block-chain-
-aur-crypto-currency
+5. A Brief History of Money - https://gufhtugu.com/product/a-brief-history-of-money
 
 ===========================================
